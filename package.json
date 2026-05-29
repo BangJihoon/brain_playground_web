@@ -17,6 +17,7 @@
     "@apps-in-toss/cli": "^1.14.1"
   },
   "dependencies": {
-    "archiver": "^8.0.0"
+    "archiver": "^8.0.0",
+    "gh-pages": "^3.2.3"
   }
 }
