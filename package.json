@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "flutter run -d chrome",
-    "build": "flutter build web"
+    "build": "flutter build web",
+    "deploy": "gh-pages -d ./"
   },
   "keywords": [],
   "author": "",
