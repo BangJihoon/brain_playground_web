@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "flutter run -d chrome",
-    "build": "flutter build web"
+    "build": "flutter build web",
+    "deploy": "gh-pages -d ./"
   },
   "keywords": [],
   "author": "",
@@ -16,6 +17,7 @@
     "@apps-in-toss/cli": "^1.14.1"
   },
   "dependencies": {
-    "archiver": "^8.0.0"
+    "archiver": "^8.0.0",
+    "gh-pages": "^3.2.3"
   }
 }
