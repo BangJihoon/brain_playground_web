@@ -1,0 +1,6 @@
+{
+  "name": "Brain Playground",
+  "version": "1.0.0",
+  "description": "짧게 즐기는 두뇌 미니게임 모음 Flutter 프로젝트",
+  "entry": "index.html"
+}

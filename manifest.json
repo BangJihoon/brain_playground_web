@@ -1,0 +1,35 @@
+{
+    "name": "Brain Playground",
+    "short_name": "Brain",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#F6F8FB",
+    "theme_color": "#2F80ED",
+    "description": "짧은 미니게임으로 기억력, 순발력, 집중력을 훈련하는 두뇌 플레이그라운드입니다.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
